@@ -1,0 +1,4 @@
+port = 9874
+enableAuth = true
+username = "user"
+password = "pass"

@@ -1,0 +1,1 @@
+go build -o "serve_this.exe" main.go
